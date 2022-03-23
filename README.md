@@ -1,11 +1,9 @@
 # PhotoBoom
-REST Api
-
 Kotlin
 
 Gradle
 
-Made with Spring Boot
+REST Api with Spring Boot
 
 H2 as an in-memory DB
 
