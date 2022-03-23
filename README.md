@@ -1,4 +1,4 @@
-# PhotoBoom
+# BoomPhoto
 Kotlin
 
 Gradle
